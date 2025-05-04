@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300770310050",
+    "project_id": "grow-e2402",
+    "storage_bucket": "grow-e2402.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300770310050:android:05c97aadf74e60e8f364fb",
+        "android_client_info": {
+          "package_name": "com.example.grow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ3D9vxaMRkfg05myxkWTgI1MQBSahSUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
