@@ -8,6 +8,7 @@ class AppStrings {
   static const String loginRoute = "/login";
   static const String signupRoute = "/signup";
   static const String splashRoute = "/splash";
+  static const String gymDetailsRoute = "/gymDetails";
   static const String chatRoute = "/chat";
   static const String getStartedRoute = "/getStarted";
   static const String resetPasswordRoute = "/resetPassword";
